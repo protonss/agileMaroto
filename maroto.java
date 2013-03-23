@@ -6,6 +6,7 @@ class Maroto {
 		System.out.println("Do");
 		System.out.println("Mizuta");
 		System.out.println("CVC");
+		System.out.println("CVCDIFERENTE");
 
 	}
 
