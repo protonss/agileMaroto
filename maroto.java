@@ -5,7 +5,7 @@ class Maroto {
 		System.out.println("Maceta");
 		System.out.println("Do");
 		System.out.println("Mizuta");
-		System.out.println("Mizuta2");
+		System.out.println("CVC");
 
 	}
 
